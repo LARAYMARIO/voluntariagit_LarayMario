@@ -18,7 +18,7 @@ public class PruebaPersona {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-         // Instanciamos personas
+         // Instanciamos persona
         Scanner teclado = new Scanner (System.in);
       
               
